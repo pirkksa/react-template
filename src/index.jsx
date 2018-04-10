@@ -8,7 +8,7 @@ import './assets/stylesheets/style.css'
 /****** ADD YOUR CODE AFTER THIS LINE ******/
 
 const Hello = () => (
-  <div>Tänään on tiistai!</div>
+  <div>Nyt on kevät!</div>
 );
 
 class App extends Component {
